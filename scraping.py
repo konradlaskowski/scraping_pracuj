@@ -2,6 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 import testy
 
+
+
+for x in range(8):
+    search_results_url = f"https://it.pracuj.pl/praca?pn=2&itth=37"
+
+
+
+
 def fetch_job_title(html):
     job_title_element = html.find('h1', {'data-scroll-id': 'job-title', 'data-test': 'text-positionName'})
     if job_title_element:
@@ -41,7 +49,7 @@ def fetch_job_links(soup):
 
 
 # Pobierz linki do ofert pracy z wyników wyszukiwania
-search_results_url = "https://it.pracuj.pl/praca?itth=37"
+search_results_url = "https://it.pracuj.pl/praca?et=17%2C1&itth=37"
 
 job_links = fetch_job_links(give_me_html_soup(search_results_url))
 
@@ -61,7 +69,3 @@ najlepsze_technologie = testy.policz_posegreguj_technologie(technologie)
 
 # print(technologie)
 
-
-f = open("technologie.txt", "a")
-f.write(str(najlepsze_technologie))
-f.close()
