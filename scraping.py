@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+import testy
 
 def fetch_job_title(html):
     job_title_element = html.find('h1', {'data-scroll-id': 'job-title', 'data-test': 'text-positionName'})
@@ -53,12 +53,15 @@ technologie = []
 for job_link in job_links:
     technologies = fetch_technologies_from_class(job_link, "offer-viewEX0Eq-")
     technologie = technologie + technologies
+    print(f"Odczytywanie: {job_link}")
+
+najlepsze_technologie = testy.policz_posegreguj_technologie(technologie)
     
-    
-
-print(technologie)
 
 
-# f = open("technologie.txt", "a")
-# f.write(technologie)
-# f.close()
+# print(technologie)
+
+
+f = open("technologie.txt", "a")
+f.write(str(najlepsze_technologie))
+f.close()
