@@ -1,0 +1,18 @@
+https://www.pracuj.pl/praca/senior-full-stack-developer-warszawa,oferta,1002815153
+['Python', 'AWS', 'Django', 'React.js']
+https://www.pracuj.pl/praca/senior-full-stack-python-developer-warszawa,oferta,1002815143
+['Python', 'AWS', 'Django', 'React.js', 'Python', 'AWS', 'Django', 'NoSQL', 'React.js']
+https://www.pracuj.pl/praca/full-stack-python-senior-developer-lublin-fryderyka-chopina-41,oferta,1002771782
+['Python', 'AWS', 'Django', 'React.js', 'Python', 'AWS', 'Django', 'NoSQL', 'React.js', 'Python', 'Fast API', 'Django', 'Celery', 'Bash', 'Docker', 'Git']
+https://www.pracuj.pl/praca/senior-python-engineer-with-react-poznan-paderewskiego-6,oferta,1002801719
+['Python', 'AWS', 'Django', 'React.js', 'Python', 'AWS', 'Django', 'NoSQL', 'React.js', 'Python', 'Fast API', 'Django', 'Celery', 'Bash', 'Docker', 'Git', 'Python', 'JavaScript', 'React', 'Redux', 'webpack', 'Django', 'Flask']
+https://www.pracuj.pl/praca/pyhon-developer-fullstack-warszawa-karola-szajnochy-5,oferta,1002790700
+['Python', 'AWS', 'Django', 'React.js', 'Python', 'AWS', 'Django', 'NoSQL', 'React.js', 'Python', 'Fast API', 'Django', 'Celery', 'Bash', 'Docker', 'Git', 'Python', 'JavaScript', 'React', 'Redux', 'webpack', 'Django', 'Flask', 'Python', 'Django', 'DRF', 'FastAPI', 'Pytest', 'Celery', 'JavaScript', 'TypeScript', 'React.js', 'Hooks']
+https://www.pracuj.pl/praca/full-stack-engineer-warszawa-pulawska-465,oferta,1002789208
+['Python', 'AWS', 'Django', 'React.js', 'Python', 'AWS', 'Django', 'NoSQL', 'React.js', 'Python', 'Fast API', 'Django', 'Celery', 'Bash', 'Docker', 'Git', 'Python', 'JavaScript', 'React', 'Redux', 'webpack', 'Django', 'Flask', 'Python', 'Django', 'DRF', 'FastAPI', 'Pytest', 'Celery', 'JavaScript', 'TypeScript', 'React.js', 'Hooks', 'Python', 'Django', 'PostgreSQL', 'Vue.js']
+https://www.pracuj.pl/praca/senior-python-developer-warszawa-aleja-jana-pawla-ii-27,oferta,1002791013
+['Python', 'AWS', 'Django', 'React.js', 'Python', 'AWS', 'Django', 'NoSQL', 'React.js', 'Python', 'Fast API', 'Django', 'Celery', 'Bash', 'Docker', 'Git', 'Python', 'JavaScript', 'React', 'Redux', 'webpack', 'Django', 'Flask', 'Python', 'Django', 'DRF', 'FastAPI', 'Pytest', 'Celery', 'JavaScript', 'TypeScript', 'React.js', 'Hooks', 'Python', 'Django', 'PostgreSQL', 'Vue.js', 'Python', 'Django', 'PostgreSQL', 'Docker']
+https://www.pracuj.pl/praca/full-stack-python-developer-python-react-warszawa,oferta,1002774438
+['Python', 'AWS', 'Django', 'React.js', 'Python', 'AWS', 'Django', 'NoSQL', 'React.js', 'Python', 'Fast API', 'Django', 'Celery', 'Bash', 'Docker', 'Git', 'Python', 'JavaScript', 'React', 'Redux', 'webpack', 'Django', 'Flask', 'Python', 'Django', 'DRF', 'FastAPI', 'Pytest', 'Celery', 'JavaScript', 'TypeScript', 'React.js', 'Hooks', 'Python', 'Django', 'PostgreSQL', 'Vue.js', 'Python', 'Django', 'PostgreSQL', 'Docker', 'Python', 'React.js', 'Angular', 'AWS', 'Django', 'Flask', 'SQL', 'HTML', 'CSS', 'JavaScript']
+https://www.pracuj.pl/praca/head-of-embo-information-technology-resources-germany,oferta,10113476
+['Python', 'AWS', 'Django', 'React.js', 'Python', 'AWS', 'Django', 'NoSQL', 'React.js', 'Python', 'Fast API', 'Django', 'Celery', 'Bash', 'Docker', 'Git', 'Python', 'JavaScript', 'React', 'Redux', 'webpack', 'Django', 'Flask', 'Python', 'Django', 'DRF', 'FastAPI', 'Pytest', 'Celery', 'JavaScript', 'TypeScript', 'React.js', 'Hooks', 'Python', 'Django', 'PostgreSQL', 'Vue.js', 'Python', 'Django', 'PostgreSQL', 'Docker', 'Python', 'React.js', 'Angular', 'AWS', 'Django', 'Flask', 'SQL', 'HTML', 'CSS', 'JavaScript', 'WordPress', 'Django', 'Python', 'Laravel', 'PHP', 'PostgreSQL', 'MySQL', 'Docker']

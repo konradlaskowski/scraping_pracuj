@@ -2,8 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import testy
 
-f2 = open("REACTtechnologieilinki.txt", "a")
-f3 = open('REACTtechnologieLISTA.txt', "a")
+f2 = open("DjangoLinki.txt", "a")
+f3 = open('DjangoLISTA.txt', "a")
+f4 = open('DjangoZUPA.txt', "a")
 
 
 def fetch_job_links(soup):
@@ -38,10 +39,11 @@ def fetch_technologies_from_class(url, class_name):
 
 
 technologie = []
-for x in range(1, 3):
-    search_results_url = f"https://it.pracuj.pl/praca?pn={x}&itth=76"
+for x in range(1, 2):
+    search_results_url = f"https://it.pracuj.pl/praca?itth=85"
     print(f" Przechodze do następnej strony: {search_results_url}")
-    job_links = fetch_job_links(give_me_html_soup(search_results_url))
+    soup = give_me_html_soup(search_results_url)
+    job_links = fetch_job_links(soup)
     for job_link in job_links:
         technologies = fetch_technologies_from_class(job_link, "offer-viewEX0Eq-")
         technologie = technologie + technologies
@@ -65,7 +67,7 @@ najlepsze_technologie = testy.policz_posegreguj_technologie(technologie)
 
 print('Zapisuje do pliku')
 
-f = open("REACTnajlepsze_technologie.txt", "a")
+f = open("DjangoNajlepsze_technologie.txt", "a")
 f.write(str(najlepsze_technologie))
 f.close()
 f2.close()
