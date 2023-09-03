@@ -67,5 +67,5 @@ najlepsze_technologie = testy.policz_posegreguj_technologie(technologie)
     
 
 
-# print(technologie)
+print(technologie)
 

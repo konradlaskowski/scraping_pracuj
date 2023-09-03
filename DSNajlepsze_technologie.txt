@@ -1,0 +1,1 @@
+{'SQL': 18, 'Python': 8, 'Scala': 4, 'Microsoft Power BI': 2, 'Google Analytics': 2, 'Qlik': 2, 'Cognos': 2, 'SAS': 2, 'Excel': 2, 'T-SQL': 2, 'Databricks': 2, 'Jira': 2, 'Kanban': 2, 'Scrum': 2, 'MS Office': 2, 'LAN': 2, 'Java': 2, 'Unix': 2, 'SAP': 2, 'ERP': 2, 'MS SQL Server': 2}
